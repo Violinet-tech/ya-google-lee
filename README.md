@@ -4,6 +4,8 @@ Agent skill: take an AI Studio / Firebase Studio export and make it run without 
 
 An agent skill from [VIOLINET Tech](https://github.com/Violinet-tech). It is a folder with a `SKILL.md`, written from a real job and the mistakes made on the way. It works in Claude Code and any harness that reads the `SKILL.md` format, and the markdown is readable as plain docs without an agent.
 
+Page: https://violinet-tech.github.io/ya-google-lee/
+
 ## Use it when
 
 you want to take an AI Studio or Firebase Studio export and make it run without Google APIs.
